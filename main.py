@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import streamlit
 
 #Input
 cap =cv2.VideoCapture("video.mp4")
